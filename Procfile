@@ -1,0 +1,1 @@
+web: gunicorn hng14_stage_zero.wsgi
